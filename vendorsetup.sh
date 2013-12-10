@@ -18,3 +18,6 @@ add_lunch_combo slim_skyrocket-userdebug
 add_lunch_combo slim_hercules-userdebug
 add_lunch_combo slim_i9100g-userdebug
 add_lunch_combo slim_captivatemtd-userdebug
+
+#~ functionality not implemented
+add_lunch_combo slim_wingray-userdebug
